@@ -5,26 +5,6 @@
 Videojuegos con Godot -> Docs
 ```
 
-# Documentación
-
-Artículos traducidos al español, guías y tutoriales.
-
-1. Programación:
-    * [GDScript Clases](./1.programar/gdscript/clases.md)
-    * [Máquina de estados](./1.programar/state-machine/README.md)
-    * [Efecto flash](./1.programar/efecto/flash.md)
-2. Juegos 2D:
-    * [Movimiento top-down](./2.games-2d/movimiento-top-down.md)
-    * [Personaje plataformas](./2.games-2d/personaje-plataformas.md)
-    * [Screen wrap](./2.games-2d/screen-wrap.md)
-3. Generación procedural:
-    * [Generar cuevas usando autómatas celulares](./3.procedural/automata-celular.md)
-    * [BSP para la generación básica de mazmorras](./3.procedural/dungeon-bsp.md)
-    * [Walker level generator by uheartbeast](./3.procedural/walker-level-gen.md)
-    * [Laberintos 2d by KidsCancode](./3.procedural/mazes.md)
-4. Tools:
-    * [Multiplayer - 2 jugadores](./4.tools/multiplayer/multiplayer-2.md)
-    * [Multiplayer - N jugadores](./4.tools//multiplayer/multiplayer-n.md)
 
 
 # Recetas para GodotEngine
