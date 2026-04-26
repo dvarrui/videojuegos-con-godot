@@ -3,17 +3,17 @@
 
 Demos, guías y recursos para ayudar a crear videojuegos con Godot.
 
-Todo desde una visión educativa (no profesional), buscando que sea fácil de aprender.
+* Desde una visión educativa (no profesional).
+* Buscando que sea fácil de aprender.
 
-# Contenidos
+## Contenidos
 
 1. [Demos](./demos/README.md): mini ejemplos prácticos.
 2. [Docs](docs/README.md): Guías y recetas.
-3. [Ext](./ext/README.md): Enlaces de interés.
+3. [Recusos](./recursos/): EN CONSTRUCCIÓN!
+4. [Ext](./ext/README.md): Enlaces de interés.
 
----
-
-**ANEXO**
+### ANEXO
 
 * Clonar el repositorio en local (sólo se hace la primera vez):
 
