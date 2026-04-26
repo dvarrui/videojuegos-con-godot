@@ -1,6 +1,10 @@
  [<< back](../README.md)
 
-# GDScript
+```
+Documentación -> Programar -> GDScript -> Clases
+```
+
+# Clases gdscript
 
 > Enlace de interés:
 > * [Tutorial de GDScript para programadores - Parte 4] (https://youtu.be/DG9F7PmbrTc)

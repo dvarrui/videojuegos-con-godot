@@ -10,6 +10,7 @@
 * [Godot Game Engine](https://godotengine.org/)
 * [Youtube - Creación de videojuegos - @Piensa3d](https://www.youtube.com/playlist?list=PLG8UtYUFOQj7MPnVEyyYDiW6WBTlsLYT8)
 * Proyecto [The Epic Adventure](./docs/the-epic-adventure.md) | [Iván Rodríguez](https://github.com/tidus747) |
+* [Aquí tienes un trillón de post-morten GDC](https://www.youtube.com/playlist?list=PL2e4mYbwSTbbiX2uwspn0xiYb8_P_cTAr)
 
 ## Tutoriales en inglés
 
@@ -21,6 +22,7 @@
 * [Make your first 3D game from scratch in Godot Engine!](https://youtu.be/fdMOHMYslOY)
 * [Particles 2D en Godot - Avance 1 del Curso completo by Rafanoid](https://youtu.be/sQ_NhtFkv4M)
 * [Godot Tutorials - List of Video and Written Tutorials - godot](https://www.reddit.com/r/godot/comments/an0iq5/godot_tutorials_list_of_video_and_written/)
+* [Engines used in the most popular games of 2019](https://www.reddit.com/r/gamedev/comments/epkd31/engines_used_in_the_most_popular_games_of_2019/): I spent a few hours this weekend following up some research I did previously on game engines. Specifically, compiling a list of the engines...
 
 ## Matemáticas
 
