@@ -106,17 +106,19 @@ Artículos traducidos al español, guías, tutoriales y recetas.
     * [Shader - Efecto flash](./docs/1.programar/shader/flash.md)
     * [Shader - Efecto flash2](./docs/1.programar/shader/flash2.md)
 2. Juegos 2D:
+    * [Autotiles](./docs/2.games-2d/autotiles.md)
     * [Movimiento top-down](./docs/2.games-2d/movimiento-top-down.md)
     * [Personaje plataformas](./docs/2.games-2d/personaje-plataformas.md)
     * [Screen wrap](./docs/2.games-2d/screen-wrap.md)
+    * [uheartbeast plataformas](./docs/2.games-2d/uheartbeast-plataformas.md)
 3. Generación procedural:
     * [Generar cuevas usando autómatas celulares](./docs/3.procedural/automata-celular.md)
     * [BSP para la generación básica de mazmorras](./docs/3.procedural/dungeon-bsp.md)
-    * [Walker level generator by uheartbeast](./docs/3.procedural/walker-level-gen.md)
     * [Laberintos 2d by KidsCancode](./docs/3.procedural/mazes.md)
+    * [Walker level generator by uheartbeast](./docs/3.procedural/walker-level-gen.md)
 4. Tools:
     * [Multiplayer - 2 jugadores](./docs/4.tools/multiplayer/multiplayer-2.md)
-    * [Multiplayer - N jugadores](./docs/4.tools//multiplayer/multiplayer-n.md)
+    * [Multiplayer - N jugadores](./docs/4.tools/multiplayer/multiplayer-n.md)
 
 ## 3. Recursos
 

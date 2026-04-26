@@ -12,6 +12,11 @@
 * Libro sobre AI en videojuegos: http://gameaibook.org/
 * Fuentes libres https://www.dafont.com/es
 
+# PixelArt
+
+* [Cómo hacer Pixel Art: la guía definitiva para principiantes - TecnoLoco](https://tecnoloco.istocks.club/como-hacer-pixel-art-la-guia-definitiva-para-principiantes/2020-12-12/)
+* PixelArt tutorial: https://penusbmic.itch.io/
+
 ## Assets
 
 * [Small dudes](https://twitter.com/GrimmNail/status/1646558648489869341?t=g_modw_ZPoZ4vgygSylmBg&s=35)
