@@ -3,12 +3,14 @@
 ```
 Videojuegos con Godot -> Ext
 ```
+
 # Ext
 
-Recursos externos de otros autores.
+Enlaces de interés a recursos externos de otros autores:
 
-## Enlaces de interés
-
-* [Tutoriales](./tutorials.md).
-* [Arte](./art.md): Free Assets, Arte vectorial y Pixel art.
-* [Miscelanea](enlaces/misc.md): Shaders y cursos de Godot.
+1. [Tutoriales](./1-tutoriales.md)
+2. [Arte](./2-arte.md): Free Assets, Arte vectorial y Pixel art.
+3. [Sonido/música](./3-sonido.md)
+4. [Varios](./4-varios.md): Shaders, etc.
+5. [Ideas para inspirarse](./5-ideas.md)
+6. [Ejemplos](./6-the-epic-adventure.md)
