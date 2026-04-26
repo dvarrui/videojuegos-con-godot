@@ -34,10 +34,3 @@ https://www.youtube.com/watch?v=nwEeEJQ1_Ic
 
 * https://x.com/dantemendes/status/1712058740013224368?t=ibSjPMj6OyqBDeo8KGj6pw&s=35
 
-## Assets
-
-* [Small dudes](https://twitter.com/GrimmNail/status/1646558648489869341?t=g_modw_ZPoZ4vgygSylmBg&s=35)
-* [Weapon sprites](https://twitter.com/_V3X3D/status/1724420603522793673?t=5w6x-UCMeFIW0lsxDKc9-Q&s=35)
-* [Choose your doodle spirit pet!](https://x.com/dom2d/status/1714877140619940122?t=aOBOgmTnj-zywsw0AbcJ4w&s=35)
-* [AT-AT](https://x.com/Logiker464/status/1705227379575054755?t=VPxx4coF5HYwUfTr3i1F-g&s=35
-* [X formerly Twitter](https://x.com/Logiker464/status/1705227379575054755?t=VPxx4coF5HYwUfTr3i1F-g&s=35) Flashback of the 2nd ATASCII Compo 2022. Outstanding ASCII art. Want another round?
