@@ -36,7 +36,7 @@ git clone https://github.com/dvarrui/godot.git
 
 Para actualizarlo cada día, hacemos:
 ```
-cd godot
+cd godot-demos
 git pull
 ```
 
