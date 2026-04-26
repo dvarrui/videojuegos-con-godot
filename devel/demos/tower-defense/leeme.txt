@@ -1,0 +1,9 @@
+
+## [Tower Defense](./2d/tower-defense)
+
+![](images/tower-defense.png)
+
+* Godot version 3.2.2.
+* 2d/tower-defense: EN CONSTRUCCION. Los assets son de Aarón VJ, creados con Gimp.
+* De momento sólo permite escoger entre 2 tipos de cartas, y colocar las piezas en la primera columna del tablero.
+* Futuro: En construcción!
