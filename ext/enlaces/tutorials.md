@@ -13,4 +13,3 @@
 * [Particles 2D en Godot - Avance 1 del Curso completo by Rafanoid](https://youtu.be/sQ_NhtFkv4M)
 * [01 - Sistemas de partículas - Explosión (2D) - Godot 3](https://youtu.be/gkzWruANadI)
 * [Godot Tutorials - List of Video and Written Tutorials - godot](https://www.reddit.com/r/godot/comments/an0iq5/godot_tutorials_list_of_video_and_written/)
-* [Leer y escribir archivos](https://www.deybismelendez.com/2020/02/tutorial-godot-leer-y-escribir-archivos.html)

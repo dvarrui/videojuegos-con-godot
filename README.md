@@ -8,11 +8,10 @@ Experimentos, recursos, tutoriales, etc. sobre la creación de videojuegos con G
 
 ## Contenidos
 
-1. [Demos jugables](./demos/)
-2. [Trucos o técnicas](./trucos/)
-3. [Apuntes y trucos que vamos apuntando](docs/README.md)
-4. [Artículos/posts de otros autores.](./ext/others/)
-5. [Enlaces de interés](./ext/enlaces/)
+1. [Demos](./demos/)
+2. [Apuntes y recetas](docs/README.md)
+3. [Artículos y posts de otros autores.](./ext/others/)
+4. [Enlaces de interés](./ext/enlaces/)
 
 ## Descargar el repositorio
 
@@ -26,8 +25,4 @@ Para actualizarlo cada día, hacemos:
 cd godot-demos
 git pull
 ```
-
-# Enlaces de interés
-
-* [rFXGen by raylib technologies](https://raylibtech.itch.io/rfxgen): A simple and easy-to-use fx sounds generator. Play in your browser
 
