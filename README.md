@@ -7,10 +7,9 @@ Todo desde una visión educativa (no profesional), buscando que sea fácil de ap
 
 # Contenidos
 
-1. [Demos](./demos/)
-2. [Guías y recetas](docs/README.md)
-3. [Artículos y posts de otros autores.](./ext/others/)
-4. [Enlaces de interés](./ext/enlaces/)
+1. [Demos](./demos/): mini ejemplos prácticos.
+2. [Docs](docs/): Guías y recetas.
+3. [Ext](./ext/): Enlaces de interés.
 
 ## ANEXO
 

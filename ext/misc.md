@@ -24,3 +24,8 @@ void fragment() {
 * [Arkanoid by rafanoid](https://www.udemy.com/course/godot-3-primer-videojuego/learn/lecture/19641354#content)
 * Video [GDC - Math for Game Programmers - YouTube](https://www.youtube.com/playlist?list=PLVmb_qp6XRcwzN9l5mcia6Gh3HOgut3bH)
 * [PRÓXIMOS WEBINARS Y MASTER CLASES ONLINE GRATIS](https://www.game-levelup.com/webinars)
+
+# Etc
+
+* [Leer y escribir archivos](https://www.deybismelendez.com/2020/02/tutorial-godot-leer-y-escribir-archivos.html)
+

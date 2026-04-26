@@ -1,13 +1,14 @@
 
 [<< back](../README.md)
 
-# Información sobre videojuegos y Godot
+```
+Videojuegos con Godot -> Docs
+```
 
-Enlaces de interés:
+# Documentación
 
-* [Tutoriales](enlaces/tutorials.md).
-* [Arte](enlaces/art.md): Free Assets, Arte vectorial y Pixel art.
-* [Miscelanea](enlaces/misc.md): Shaders y cursos de Godot.
+Guías, tutoriales, etc.
+
 
 # Artículos traducidos al español
 
