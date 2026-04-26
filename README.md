@@ -1,9 +1,9 @@
 
-# Godot
+# Godot Demos
 
-En este repositorio iré alojando mini-experimentos, mini-proyectos o mini-experiencias en relación a la creación de videojuegos con Godot.
+En este repositorio contiene mini-experimentos, mini-proyectos o mini-experiencias en relación a la creación de videojuegos con Godot.
 
-Trataré de hacerlos de forma educativa (no profesional) para facilitar que se pueda aprender fácilmente de ellos.
+Intentaremos hacerlos de forma educativa (no profesional) para que sea fácil aprender.
 
 A medida que surjan preguntas se irán creando documentación de las partes más se necesiten.
 
@@ -11,7 +11,7 @@ A medida que surjan preguntas se irán creando documentación de las partes más
 
 ## Experiencias o demos jugables
 
-Este repositorio contiene pequeñas demos jugables, diseñadas con la intención de ser fáciles de aprender y enseñar. Los proyectos has sido creadas con el motor **Godot Engine**, y usando otros recursos libres.
+Pequeñas demos jugables, diseñadas con la intención de ser fáciles de aprender y enseñar. Los proyectos has sido creadas con el motor **Godot Engine**, y usando otros recursos libres.
 
 Godot version 3.2.2:
 1. [Arkanoid](docs/game-index.md#arkanoid)
