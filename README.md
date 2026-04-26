@@ -7,11 +7,13 @@ Todo desde una visión educativa (no profesional), buscando que sea fácil de ap
 
 # Contenidos
 
-1. [Demos](./demos/): mini ejemplos prácticos.
-2. [Docs](docs/): Guías y recetas.
-3. [Ext](./ext/): Enlaces de interés.
+1. [Demos](./demos/README.md): mini ejemplos prácticos.
+2. [Docs](docs/README.md): Guías y recetas.
+3. [Ext](./ext/README.md): Enlaces de interés.
 
-## ANEXO
+---
+
+**ANEXO**
 
 * Clonar el repositorio en local (sólo se hace la primera vez):
 
