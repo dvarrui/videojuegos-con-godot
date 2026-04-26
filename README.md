@@ -99,10 +99,12 @@ Se pueden coger unos objetos brillantes, pero por ahora no sirven para nada.
 
 Artículos traducidos al español, guías, tutoriales y recetas.
 
-1. Programación:
+1. Programar:
     * [GDScript Clases](./docs/1.programar/gdscript/clases.md)
     * [Máquina de estados](./docs/1.programar/state-machine/README.md)
-    * [Efecto flash](./docs/1.programar/efecto/flash.md)
+    * [Sahder - escala de grises](./docs/1.programar/shader/gray-scale.md)
+    * [Shader - Efecto flash](./docs/1.programar/shader/flash.md)
+    * [Shader - Efecto flash2](./docs/1.programar/shader/flash2.md)
 2. Juegos 2D:
     * [Movimiento top-down](./docs/2.games-2d/movimiento-top-down.md)
     * [Personaje plataformas](./docs/2.games-2d/personaje-plataformas.md)
