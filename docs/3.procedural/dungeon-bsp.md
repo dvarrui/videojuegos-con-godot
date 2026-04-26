@@ -20,11 +20,11 @@ El proceso de división de las mazmorras es el siguiente:
 
 Veamos un ejemplo de la primera iteración de división.
 
-![](image/dungeon_bsp1.png)
+![](images/dungeon_bsp1.png)
 
 Dentro de las mazmorras A y B, podemos volver a aplicar el mismo proceso de división. Veamos un ejemplo de la segunda iteración de división.
 
-![](image/dungeon_bsp2.png)
+![](images/dungeon_bsp2.png)
 
 Cuando elegimos la posición de división (paso 2 del proceso), hay que tener cuidado para no elegir una demasiado cerca del borde de la mazmorra, puesto que necesitamos tener espacio suficiente en cada sub-mazmorra para colocar una habitación dentro.
 
@@ -32,7 +32,7 @@ Seguiremos repitiendo el proceso hasta que la sub-mazmorra más pequeña tiene a
 
 Veamos un ejemplo después de aplicar 4 iteraciones de división:
 
-![](image/dungeon_bsp3.png)
+![](images/dungeon_bsp3.png)
 
 Los valores de la posición de división dan distintos resultados:
 * Sub-mazmorras homogéneas si el valor está entre 0.45 y 0.55.
@@ -46,7 +46,7 @@ Ahora vamos a crear habitaciones con tamaño aleatorio en cada hoja del árbol. 
 
 Veamos un ejemplo de las habitaciones (rectágulos de color negro), dentro de cada hoja del árbol BSO (rectángulos de color gris).
 
-![](image/dungeon_bsp4.png)
+![](images/dungeon_bsp4.png)
 
 ## 3. Construir los pasillos
 
@@ -54,7 +54,7 @@ Para construir los pasillos, recorreremos todas las hojas del árbol, conectando
 
 Veamos ejemplo conectando sub-mazmorras del nivel 4.
 
-![](image/dungeon_bsp5.png)
+![](images/dungeon_bsp5.png)
 
 Ahora que hemos hecho los pasillos en el nivel 4 del árbol, subimos un nivel en el árbol y repetimos el proceso para las regiones del padre. Ahora podemos conectar dos sub-regiones con un enlace entre:
 * dos habitaciones
@@ -63,10 +63,10 @@ Ahora que hemos hecho los pasillos en el nivel 4 del árbol, subimos un nivel en
 
 Veamos un ejemplo donde se conectan las sub-mazmorras del nivel 3.
 
-![](image/dungeon_bsp6.png)
+![](images/dungeon_bsp6.png)
 
 Repetimos el proceso hasta que terminemos conectando las primeras sub-mazmorras A y B.
 
-![](image/dungeon_bsp7.png)
+![](images/dungeon_bsp7.png)
 
 Si permitimos que algunas habitaciones ocupen la hoja completa, se consiguen mazmorras menos aburridas.

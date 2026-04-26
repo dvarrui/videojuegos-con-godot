@@ -11,7 +11,7 @@ Añadir algo de generación en tu juego es una buena forma de darle un valor añ
 
 En este tutorial vamos a construir un generador de cuevas. Veamos un ejemplo:
 
-![](image/caves_ac1.png)
+![](images/caves_ac1.png)
 
 Este generador nos devolverá una matriz bidimensional, donde cada posición indicará si hay un bloque o está vacío. De modo que podemos usar este generador para todo tipo de juegos: mazmorras, niveles para juegos de estrategia, tilemaps para juegos de plataformas, incluso como arena para shooter multijugador. Intercambiando las bloques y los espacios libres tenemos también un generador de islas.
 
@@ -38,7 +38,7 @@ Vamos a representar nuestra rejilla de células por un Array de dos dimensiones 
 
 Definiremos una variable **chanceToStartAlive**, que determinará la probabilidad de que una celda contenga una célula viva. Para nuestro ejemplo comenzaremos con un valor de 45%. Veamos ejemplo:
 
-![](image/gdt-sim0.png)
+![](images/gdt-sim0.png)
 
 ## 3.2 Aplicar reglas de cambio
 
@@ -48,7 +48,7 @@ Esta función **doSimulationStep**:
 
 * Crea una nueva rejilla con los cambios de estado. Recordemos que a la hora de calcular el valor futuro de cada celda, hay consultar el valor actual de sus 8 vecinos.
 
-![](image/gdt_1.png)
+![](images/gdt_1.png)
 
 * Contamos el número de vecinos para cada celda (**countAliveNeighbours**). Cuando estemos calculando en una celda de los límites de la rejilla (bordes del mapa), habrán algunos valores de vecinos que no tengamos. En estos casos asumimos un valor por defecto: vecino vivo o espacio vacío.
 
