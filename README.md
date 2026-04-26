@@ -1,28 +1,29 @@
 
 # Videojuegos con Godot
 
-Experimentos, recursos, tutoriales, etc. sobre la creación de videojuegos con Godot.
+Demos, guías y recursos para ayudar a crear videojuegos con Godot.
 
-* Intentaremos hacerlos de forma educativa (no profesional) para que sea fácil aprender.
-* Vamos creando documentación de las partes que necesitamos.
+Todo desde una visión educativa (no profesional), buscando que sea fácil de aprender.
 
-## Contenidos
+# Contenidos
 
 1. [Demos](./demos/)
-2. [Apuntes y recetas](docs/README.md)
+2. [Guías y recetas](docs/README.md)
 3. [Artículos y posts de otros autores.](./ext/others/)
 4. [Enlaces de interés](./ext/enlaces/)
 
-## Descargar el repositorio
+## ANEXO
 
-Para descargar este repositorio la primera vez, hacemos:
-```
+* Clonar el repositorio en local (sólo se hace la primera vez):
+
+```bash
 git clone https://github.com/dvarrui/godot.git
 ```
 
-Para actualizarlo cada día, hacemos:
-```
-cd godot-demos
+* Actualizar el contenido cada cierto tiempo:
+
+```bash
+cd videojuegos-con-godot
 git pull
 ```
 
