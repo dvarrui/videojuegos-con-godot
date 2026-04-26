@@ -18,8 +18,8 @@ Artículos traducidos al español, guías y tutoriales.
     * [Personaje plataformas](./2.games-2d/personaje-plataformas.md)
     * [Screen wrap](./2.games-2d/screen-wrap.md)
 3. Generación procedural:
-    * [Generar cuevas usando autómatas celulares](./3.procedural/pcg/automata-celular.md)
-    * [BSP para la generación básica de mazmorras](./3.procedural/pcg/dungeon-bsp.md)
+    * [Generar cuevas usando autómatas celulares](./3.procedural/automata-celular.md)
+    * [BSP para la generación básica de mazmorras](./3.procedural/dungeon-bsp.md)
     * [Walker level generator by uheartbeast](./3.procedural/walker-level-gen.md)
     * [Laberintos 2d by KidsCancode](./3.procedural/mazes.md)
 4. Tools:
