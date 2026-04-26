@@ -6,24 +6,16 @@ Demos, guías y recursos para ayudar a crear videojuegos con Godot.
 * Desde una visión educativa (no profesional).
 * Buscando que sea fácil de aprender.
 
-## 1 Demos jugables
+1. Demos jugables
+2. Documentación
+3. Recursos
+4. Enlaces externos
+
+---
+
+# 1 Demos jugables
 
 [Demos jugables](./demos/README.md): Pequeñas demos jugables, diseñadas con la intención de ser fáciles de aprender y enseñar. Los proyectos has sido creadas con el motor **Godot Engine**, y usando otros recursos libres.
-
-* Arkanoid
-* Multiplayer 2
-* Platform
-* Platform Top Down
-* Roguelike
-* Star shooter
-
-[<< back](../README.md)
-
-```
-Videojuegos con Godot -> Demos
-```
-
-# 1. Demos jugables
 
 Pequeñas demos jugables, diseñadas con la intención de ser fáciles de aprender y enseñar. Los proyectos has sido creadas con el motor **Godot Engine**, y usando otros recursos libres.
 

@@ -15,7 +15,11 @@
 ## Tutoriales en inglés
 
 * [Awesome Godot](https://github.com/Calinou/awesome-godot/blob/master/README.md)
+* [GitHub - godotengine/awesome-godot](https://github.com/godotengine/awesome-godot): A curated list of free/libre plugins, scripts and add-ons for Godot
+* [Godot land](https://godot.land/)
 * [Kids can code - Godot Recipes](http://kidscancode.org/godot_recipes/)
+* [Kidscancode recipes](https://kidscancode.org/godot_recipes/4.x/)
+* [Snopek Games](https://www.snopekgames.com/games)
 * Video: [Very simple game using Godot Engine](http://youtu.be/svoTd2gDdt4)
 * [Godot Signals and How to Use Them - GoTut: Game and Other Tutorials](https://www.gotut.net/godot-signals/)
 * [Game Clone Challenges](https://github.com/rby90/game-clone-challenges): A progressive list of game clones for the practicing programmer.
