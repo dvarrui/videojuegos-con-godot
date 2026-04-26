@@ -1,19 +1,18 @@
 
-# Godot Demos
+# Videojuegos con Godot
 
-Experimentos, pruebas o cosas que vamos aprendiendo sobre la creación de videojuegos con Godot.
+Experimentos, recursos, tutoriales, etc. sobre la creación de videojuegos con Godot.
 
 * Intentaremos hacerlos de forma educativa (no profesional) para que sea fácil aprender.
 * Vamos creando documentación de las partes que necesitamos.
 
-¡Muchas gracias!
-
 ## Contenidos
 
 1. [Demos jugables](./demos/)
-2. [Apuntes y trucos que vamos apuntando](docs/README.md)
-3. [Artículos/post de otros autores.](./ext/others/)
-4. [Enlaces de interés](./ext/enlaces/)
+2. [Trucos o técnicas](./trucos/)
+3. [Apuntes y trucos que vamos apuntando](docs/README.md)
+4. [Artículos/posts de otros autores.](./ext/others/)
+5. [Enlaces de interés](./ext/enlaces/)
 
 ## Descargar el repositorio
 
